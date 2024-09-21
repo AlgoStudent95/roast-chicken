@@ -1,0 +1,67 @@
+body {
+  margin: 0px;
+}
+
+header {
+ background-color: orange;
+ padding: 10px;   
+}
+
+header img{
+  vertical-align: middle ;
+}
+header a{
+ color: white ;
+ margin: 13px ;
+ text-decoration: none;
+}
+
+.sec1 img { 
+  display:block;
+  margin: auto;  
+}
+
+.sec5 img {
+  width:300px;
+  height:200px;
+  margin:10px;
+  }
+
+.sec1 h1{
+  font-size:40px ;
+}
+main {
+  padding: 10px
+}
+.sec2 div{
+  text-align: center;
+}
+.sec2 div img{
+  margin:15px;
+  width:150px;
+  height:150px;
+}
+.sec3 div{
+  text-align: center;
+}
+.sec3 div img{
+  margin:15px;
+  width:150px;
+  height:150px;
+}
+.sec4 table{
+  border:2px solid black;
+  border-collapse: collapse;
+}
+.sec4 td{
+  border:2px solid black;
+  padding: 15px;
+}
+footer {
+  background-color: orange;
+  padding: 10px;
+  font-size: 12px;
+}
+footer h2{
+  margin:0px
+}
